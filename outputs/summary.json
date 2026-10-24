@@ -1,0 +1,16 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=kAgAQ24_Jso",
+  "comments_analyzed": 2000,
+  "model": "lxyuan/distilbert-base-multilingual-cased-sentiments-student",
+  "sentiment_counts": {
+    "positive": 1825,
+    "neutral": 28,
+    "negative": 147
+  },
+  "sentiment_percentages": {
+    "positive": 91.25,
+    "neutral": 1.4,
+    "negative": 7.35
+  },
+  "note": "Model predictions are estimates, not human-verified ground truth. Mixed-language Roman Urdu may be less reliable."
+}

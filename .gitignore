@@ -1,0 +1,23 @@
+# Secrets
+.env
+
+# Python environment and cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Keep analysis outputs in GitHub
+outputs/*
+!outputs/.gitkeep
+!outputs/sentiment_results.csv
+!outputs/summary.json
+!outputs/sentiment_bar_chart.png
+!outputs/sentiment_pie_chart.png
+
+# Keep data directory empty
+data/*
+!data/.gitkeep
+
+# OS files
+.DS_Store
